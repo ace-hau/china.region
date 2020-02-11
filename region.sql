@@ -1,18 +1,3 @@
-/*
-Navicat MySQL Data Transfer
-
-Source Server         : hbm4_dev
-Source Server Version : 50724
-Source Host           : 192.168.2.40:3306
-Source Database       : test
-
-Target Server Type    : MYSQL
-Target Server Version : 50724
-File Encoding         : 65001
-
-Date: 2019-03-21 10:32:25
-*/
-
 SET FOREIGN_KEY_CHECKS=0;
 
 -- ----------------------------
